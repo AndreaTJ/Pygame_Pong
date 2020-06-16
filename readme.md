@@ -2,7 +2,7 @@
 
 Simulation of the famous Atari game, Pong.
 
-##Technologies
+## Technologies
 
 * Python 3.8
 * Pygame 2.0.0.dev4 (MacOS Catalina only) 
@@ -12,7 +12,7 @@ Note: This program has been created on a computer with an OS Catalina, so the py
 
 If your OS is different, please update your pygame version after installing the requirements.
 
-##Installing 
+## Installing 
 
 Please, run: 
 
